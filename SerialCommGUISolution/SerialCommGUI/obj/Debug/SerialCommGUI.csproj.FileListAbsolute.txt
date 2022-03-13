@@ -1,0 +1,38 @@
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe.config
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.pdb
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csprojAssemblyReference.cache
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.configForm.resources
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.Properties.Resources.resources
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.GenerateResource.cache
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.CoreCompileInputs.cache
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.exe
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.pdb
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.transmitForm.resources
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\bin\Debug\CRC_Class.dll
+D:\Code\CPET222\Lab04 C#\SerialCommGUI_Aznive\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.CopyComplete
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe.config
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.pdb
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\bin\Debug\CRC_Class.dll
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csprojAssemblyReference.cache
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.configForm.resources
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.Properties.Resources.resources
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.transmitForm.resources
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.CopyComplete
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.exe
+C:\Users\arthu\Desktop\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.pdb
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe.config
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.exe
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\bin\Debug\SerialCommGUI.pdb
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\bin\Debug\CRC_Class.dll
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csprojAssemblyReference.cache
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.configForm.resources
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.Properties.Resources.resources
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.transmitForm.resources
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.GenerateResource.cache
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.csproj.CopyComplete
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.exe
+C:\Users\arthu\Desktop\CPET 252 and 222 folder\RS232 Comm\SerialCommGUISolution\SerialCommGUI\obj\Debug\SerialCommGUI.pdb
